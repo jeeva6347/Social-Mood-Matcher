@@ -1,4 +1,4 @@
-# Social Mood Matcher – AI Caption & Hashtag Generator
+# 🤖 Social Mood Matcher – AI-Powered Caption & Hashtag Generator
 
 <div align="center">
 
@@ -17,26 +17,52 @@
 
 ## 🎯 Overview
 
-**Social Mood Matcher** is an end-to-end AI application that analyzes images (scenery or food), detects their sentiment/vibe, and generates engaging social media captions with trending 2024 hashtags. The application ensures all output fits within platform character limits (Twitter/X, Instagram, Facebook).
+Social Mood Matcher is an AI-powered web application built with **Python** and **Streamlit** that analyzes uploaded images and generates engaging social media captions with relevant hashtags. Users can customize the caption style and target platform to create content suitable for Instagram, Facebook, and Twitter/X.
 
-### Key Features
+## ✨ Features
 
-- 🎭 **Image Sentiment Detection** - Analyzes images to infer mood (cozy, happy, aesthetic, calm, luxury, adventurous, etc.)
-- ✍️ **Smart Caption Generation** - Creates engaging captions in multiple styles (casual, aesthetic, professional, playful)
-- #️⃣ **Trending Hashtag Engine** - Curated 2024 hashtags organized by category and sentiment
-- 📏 **Character Limiting** - Smart truncation for Twitter/X (280 chars), Instagram, and Facebook
-- 🎨 **Beautiful UI** - Modern, responsive Streamlit interface
-- 🚀 **Production Ready** - Modular architecture, error handling, and deployment-ready
+- 🎭 Image Sentiment Detection
+- ✍️ Smart Caption Generation
+- #️⃣ Trending Hashtag Engine
+- 📏 Character Limiting
+- 🎨 Beautiful UI
+- 🚀 Production Ready
+
+---
+
+## 🛠️ Tech Stack
+
+### Programming Language
+- Python
+
+### Framework
+- Streamlit
+
+### AI & Machine Learning
+- Hugging Face Transformers
+- PyTorch
+
+### Image Processing
+- Pillow
+
+### Frontend
+- HTML
+- CSS
+
+### Tools
+- Git
+- GitHub
 
 ---
 
 ## 📸 Screenshots
 
 ### Main Interface
-![Main Interface](assets/screenshot_main.png)
+<img width="1359" height="628" alt="Screenshot 2026-07-11 160448" src="https://github.com/user-attachments/assets/06332860-ef4f-4fcc-9d97-cd00a75e2c07" />
+
 
 ### Results Display
-![Results](assets/screenshot_results.png)
+<img width="1354" height="627" alt="Screenshot 2026-07-11 160840" src="https://github.com/user-attachments/assets/73f94238-863c-4bb4-9bc0-b927e2136aee" />
 
 ---
 
@@ -294,6 +320,15 @@ Edit `config/settings.py` to customize:
 - [ ] Video support
 
 ---
+## 🤖 AI-Assisted Development
+
+This project was developed with significant assistance from AI coding tools for project planning, code generation, debugging, and documentation. The application was customized, tested, integrated, and deployed by me.
+
+**AI tools used:**
+- ChatGPT
+- Gemini
+- Hugging Face Transformers
+---
 
 ## 🤝 Contributing
 
@@ -322,19 +357,13 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ---
 
-## 📧 Contact
+## 👨‍💻 Author
 
-For questions, suggestions, or issues:
+**Jeeva L**
 
-- **GitHub Issues:** [Create an issue](https://github.com/yourusername/social-mood-matcher/issues)
-- **Email:** your.email@example.com
+🎓 BCA Graduate
 
----
+📧 Email: jeevalawrance2004@gmail.com
 
-<div align="center">
-
-**Made with ❤️ using Streamlit & Hugging Face Transformers**
-
-⭐ Star this repo if you find it helpful!
-
+💼 LinkedIn: https://linkedin.com/in/jeeva-l-5bb2a4387
 </div>
