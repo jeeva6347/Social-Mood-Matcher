@@ -32,27 +32,13 @@ Social Mood Matcher is an AI-powered web application built with **Python** and *
 
 ## 🛠️ Tech Stack
 
-### Programming Language
-- Python
+## 🛠️ Tech Stack
 
-### Framework
-- Streamlit
-
-### AI & Machine Learning
-- Hugging Face Transformers
-- PyTorch
-
-### Image Processing
-- Pillow
-
-### Frontend
-- HTML
-- CSS
-
-### Tools
-- Git
-- GitHub
-
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ---
 
 ## 📸 Screenshots
